@@ -1,4 +1,4 @@
-Here are the RPub links to these .rmd files:
-DanielHanasabCities: https://rpubs.com/Gnavarrete26/1282111
-GillianMcGovernCola: https://rpubs.com/Gnavarrete26/1282112
-BarakatAdigunProduct: https://rpubs.com/Gnavarrete26/1282113
+Here are the (New) RPub links to these .rmd files:
+DanielHanasabCities: http://rpubs.com/Gnavarrete26/1287771
+GillianMcGovernCola: http://rpubs.com/Gnavarrete26/1287773
+BarakatAdigunProduct: http://rpubs.com/Gnavarrete26/1287774
